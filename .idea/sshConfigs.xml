@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="bootcamp-coders.cnm.edu" id="c84ffce0-c6af-4a4c-81cb-14b8f77c1db6" port="22" nameFormat="DESCRIPTIVE" username="msandoval234" />
+    </configs>
+  </component>
+</project>

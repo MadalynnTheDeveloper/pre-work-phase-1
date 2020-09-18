@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bbffb353-cf29-4857-8d92-4f595566ca2c" name="bootcamp-coders.cnm.edu" url="http://bootcamp-coders.cnm.edu/~msandoval234/pre-work-phase-1">
+        <fileTransfer rootFolder="/home/msandoval234/public_html/pre-work-phase-1" accessType="SFTP" host="bootcamp-coders.cnm.edu" port="22" sshConfigId="c84ffce0-c6af-4a4c-81cb-14b8f77c1db6" sshConfig="msandoval234@bootcamp-coders.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
